@@ -9,7 +9,7 @@ cd aptos-core
 ```
 
 **2. Install dependencies**
-For Linux: (Tested on Ubuntu 20.04 and Ubuntu 22.04)
+For Linux: (Only tested on Ubuntu 20.04 and Ubuntu 22.04)
 ```bash
 ./scripts/dev_setup.sh
 ```
