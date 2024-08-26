@@ -4,7 +4,7 @@ This repository contains the aptos-core fork code used for the Block-STM vs. Sea
 
 ## **1. Download the source code.**
 ```bash
-git clone https://github.com/2077-Research/aptos-core-Block-STM-v-Sealevel-.git
+git clone https://github.com/2077-Research/aptos-core-Block-STM-v-Sealevel.git
 cd aptos-core
 ```
 
